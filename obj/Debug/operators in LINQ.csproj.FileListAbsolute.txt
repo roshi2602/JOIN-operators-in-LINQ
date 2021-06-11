@@ -1,0 +1,7 @@
+C:\Users\lenovo\source\repos\operators in LINQ\operators in LINQ\bin\Debug\operators in LINQ.exe.config
+C:\Users\lenovo\source\repos\operators in LINQ\operators in LINQ\bin\Debug\operators in LINQ.exe
+C:\Users\lenovo\source\repos\operators in LINQ\operators in LINQ\bin\Debug\operators in LINQ.pdb
+C:\Users\lenovo\source\repos\operators in LINQ\operators in LINQ\obj\Debug\operators in LINQ.csproj.AssemblyReference.cache
+C:\Users\lenovo\source\repos\operators in LINQ\operators in LINQ\obj\Debug\operators in LINQ.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\operators in LINQ\operators in LINQ\obj\Debug\operators in LINQ.exe
+C:\Users\lenovo\source\repos\operators in LINQ\operators in LINQ\obj\Debug\operators in LINQ.pdb
